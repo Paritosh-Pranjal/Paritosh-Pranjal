@@ -1,3 +1,5 @@
+<img src="https://github.com/Paritosh-Pranjal.png" width="150" alt="Paritosh Pranjal" align="right" />
+
 # 👋 Hi, I'm Paritosh Pranjal
 
 I'm a passionate **Full Stack Developer** with experience in building scalable web applications using technologies like **React**, **Next.js**, **Java**, **Spring Boot**, and **PostgreSQL**. I enjoy solving real-world problems through clean and efficient code.
