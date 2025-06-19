@@ -51,19 +51,19 @@
 
 ## 🧩 GitHub Streak & Contribution Graph
 
-![GitHub Streak]([https://streak-stats.demolab.com?user=paritosh-pranjal&theme=radical&hide_border=true](https://streak-stats.demolab.com/?user=paritosh-pranjal&theme=radical&hide_border=true))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paritosh-Pranjal&theme=radical&hide_border=true)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Paritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=paritoshpranjal&show_icons=true&theme=radical)
+![Paritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paritosh-Pranjal&show_icons=true&theme=radical)
 
 ---
 
 ## 🧠 Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshpranjal&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh-Pranjal&layout=compact&theme=radical&langs_count=8)
 
 ---
 
