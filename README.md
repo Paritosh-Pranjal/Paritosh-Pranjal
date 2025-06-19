@@ -1,8 +1,18 @@
-<img src="https://github.com/Paritosh-Pranjal.png" width="150" alt="Paritosh Pranjal" align="right" />
-
-# 👋 Hi, I'm Paritosh Pranjal
-
-I'm a passionate **Full Stack Developer** with experience in building scalable web applications using technologies like **React**, **Next.js**, **Java**, **Spring Boot**, and **PostgreSQL**. I enjoy solving real-world problems through clean and efficient code.
+<table>
+  <tr>
+    <td width="170">
+      <img src="https://github.com/Paritosh-Pranjal.png" width="150" style="border-radius: 10px" alt="Paritosh Pranjal" />
+    </td>
+    <td>
+      <h1>👋 Hi, I'm Paritosh Pranjal</h1>
+      <p>
+        I'm a passionate <strong>Full Stack Developer</strong> with experience in building scalable web applications using technologies like 
+        <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>PostgreSQL</strong>. <br />
+        I enjoy solving real-world problems through clean and efficient code.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
