@@ -52,7 +52,7 @@
 ## 📈 My Coding Activity
 
 <!-- WakaTime Card -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=paritosh-pranjal&layout=compact&theme=radical)
 
 ---
 
