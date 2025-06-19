@@ -49,6 +49,13 @@
 
 ---
 
+## 📈 My Coding Activity
+
+<!-- WakaTime Card -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact&theme=radical)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Paritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=paritoshpranjal&show_icons=true&theme=radical)
