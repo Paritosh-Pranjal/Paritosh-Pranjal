@@ -49,10 +49,9 @@
 
 ---
 
-## 📈 My Coding Activity
+## 🧩 GitHub Streak & Contribution Graph
 
-<!-- WakaTime Card -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=paritosh-pranjal&layout=compact&theme=radical)
+![GitHub Streak]([https://streak-stats.demolab.com?user=paritosh-pranjal&theme=radical&hide_border=true](https://streak-stats.demolab.com/?user=paritosh-pranjal&theme=radical&hide_border=true))
 
 ---
 
