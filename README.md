@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td width="170">
-      <img src="https://github.com/Paritosh-Pranjal.png" width="150" style="border-radius: 10px" alt="Paritosh Pranjal" />
-    </td>
     <td>
       <h1>👋 Hi, I'm Paritosh Pranjal</h1>
       <p>
